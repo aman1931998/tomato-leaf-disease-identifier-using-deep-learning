@@ -3,9 +3,9 @@
 
 The model is created using Tensorpack built upon TensorFlow library. The dataset for this project is manually annotated.<br>
 
-[Notebook](https://github.com/aman1931998/ai-and-deep-learning/blob/master/Tomato%20Leaf%20Disease%20Identifier%20using%20Deep%20Learning/Tomato_Disease.ipynb)
+[Notebook](https://github.com/aman1931998/tomato-leaf-disease-identifier-using-deep-learning/blob/main/Tomato_Disease.ipynb)
 
-![Leaf Output](https://raw.githubusercontent.com/aman1931998/ai-and-deep-learning/master/Tomato%20Leaf%20Disease%20Identifier%20using%20Deep%20Learning/disease_tomato.png)
+![Leaf Output](https://raw.githubusercontent.com/aman1931998/tomato-leaf-disease-identifier-using-deep-learning/main/disease_tomato.png)
 
 ## Features
 
